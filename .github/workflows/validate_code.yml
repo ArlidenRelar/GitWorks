@@ -37,4 +37,4 @@ jobs:
 
       # 4. Ejecutar tu archivo .py (cambia script.py por el nombre real de tu archivo)
       - name: Ejecutar script de Python
-        run: python script.py
+        run: python Hola_mundo.py
