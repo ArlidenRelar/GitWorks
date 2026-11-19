@@ -1,4 +1,4 @@
-º# Librerias base en python
+# Librerias base en python
 numpy == 1.26.4
 pandas == 2.2.2
 request >= 2.31, <3.0.0
